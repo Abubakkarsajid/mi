@@ -11,10 +11,12 @@ import { Signup } from "./compoents/Signup";
 import { Team } from "./files/Team";
 import { Footer } from "./compoents/Footer";
 import { Trusted } from "./files/Trusted";
+// import { Analytics } from "@vercel/analytics/react"
 
 export function App() {
   return (
     <>
+    
       <Navbars />
       <Routes>
         <Route
