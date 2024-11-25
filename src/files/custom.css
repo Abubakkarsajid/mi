@@ -37,7 +37,7 @@
     transform: rotateY(-180deg);
   }
 }
-/* 
+
 
 @keyframes herosection-heading {
   0%{
@@ -48,4 +48,4 @@
     opacity: 1;
     transform: translateX(0);
   }
-} */
+}

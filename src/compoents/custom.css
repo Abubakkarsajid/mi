@@ -1,4 +1,4 @@
-#logo {
+/* #logo {
   animation-name: example;
   animation-duration: 4s;
   animation-timeline: scroll();
@@ -12,4 +12,4 @@
   100% {
     transform: rotateY(180deg);
   }
-}
+} */

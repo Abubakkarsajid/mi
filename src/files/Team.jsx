@@ -23,7 +23,7 @@ export function Team() {
             >
               <img
                 className="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://i.ibb.co/W5hF2TT/abubakkar.jpg"
+                src="imges/abubakkar.jpg"
                 alt="Abu bakkar"
               />
               <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 ">
@@ -111,7 +111,7 @@ export function Team() {
             >
               <img
                 className="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://scontent.flhe9-1.fna.fbcdn.net/v/t39.30808-6/454948548_7957237177723917_1361130356038215103_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGEbB1to6YylpCPFZW0qMX1FKRn2bzJ8GkUpGfZvMnwaX0DHvIWke-UieUXc8oFkTooZ_Dtzd_w-0-16jEy_dGl&_nc_ohc=0mICNnLvQtkQ7kNvgEsBj6r&_nc_zt=23&_nc_ht=scontent.flhe9-1.fna&_nc_gid=AOVZ-JEnvN4AcoCIAOLye8T&oh=00_AYD5r7jyWmuH2m9Vphb3WKOFTd4POeqwk3iq8nKzAXjZEw&oe=672CD65A"
+                src="imges/shah.jpg"
                 alt="sm"
               />
               <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 ">
@@ -199,7 +199,7 @@ export function Team() {
             >
               <img
                 className="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://i.ibb.co/YRKSkPQ/usman.jpg"
+                src="imges/usman.jpg"
                 alt="Usman Amanat "
               />
               <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 ">
@@ -287,7 +287,7 @@ export function Team() {
             >
               <img
                 className="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://i.ibb.co/2NCPg6j/Rehanna-William.jpg"
+                src="imges//Rehanna-William.jpg"
                 alt="Joseph Avatar"
               />
               <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 ">
@@ -375,7 +375,7 @@ export function Team() {
             >
               <img
                 className="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://i.ibb.co/WKwWk7Y/Ahsaan-Ahmad.jpg"
+                src="imges/Ahsaan-Ahmad.jpg"
                 alt="Sofia Avatar"
               />
               <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 ">
@@ -463,7 +463,7 @@ export function Team() {
             >
               <img
                 className="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://i.ibb.co/jvnmFVW/noman.jpg"
+                src="imges/noman.jpg"
                 alt="Syed Noman Shahid "
               />
               <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 ">
@@ -551,7 +551,7 @@ export function Team() {
             >
               <img
                 className="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://i.ibb.co/BydYxKT/Mathea-Myrvang.jpg"
+                src="imges/Mathea-Myrvang.jpg"
                 alt="Michael Avatar"
               />
               <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 ">
@@ -639,7 +639,7 @@ export function Team() {
             >
               <img
                 className="mx-auto mb-4 w-36 h-36 rounded-full"
-                src="https://i.ibb.co/q7czRbP/Saydi-Rotru.jpg"
+                src="imges/Saydi Rotru.jpg"
                 alt="Neil Avatar"
               />
               <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 ">
