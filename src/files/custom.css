@@ -1,0 +1,51 @@
+#herosection-heading {
+  color: #fff;
+  animation: herosection-heading linear 2s 1;
+}
+#herosection {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),
+    url("https://cdn.b12.io/client_media/7NxpFTRT/4f06c5ac-a34e-11ef-97cc-0242ac110002-jpg-hero_image.jpeg")
+      no-repeat center;
+  color: #fff;
+  height: 100vh;
+}
+
+#hover-boxs {
+  transition: filter 0.4s ease;
+  cursor: pointer;
+}
+
+#container:hover #hover-boxs {
+  filter: blur(3px);
+}
+#container #hover-boxs:hover {
+  filter: none;
+}
+
+#home-page {
+  animation-name: example;
+  animation-duration: 4s;
+  animation-timeline: scroll();
+}
+
+@keyframes herosection-heading {
+  0% {
+    transform: rotateY(0deg);
+  }
+
+  100% {
+    transform: rotateY(-180deg);
+  }
+}
+/* 
+
+@keyframes herosection-heading {
+  0%{
+    opacity: 0;
+    transform: translateX(120);
+  }
+  100%{
+    opacity: 1;
+    transform: translateX(0);
+  }
+} */
