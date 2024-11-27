@@ -11,6 +11,7 @@ import { Signup } from "./compoents/Signup";
 import { Team } from "./files/Team";
 import { Footer } from "./compoents/Footer";
 import { Trusted } from "./files/Trusted";
+import { Testimonials } from "./files/Testimonials";
 // import { Analytics } from "@vercel/analytics/react"
 
 export function App() {
@@ -29,6 +30,7 @@ export function App() {
               <Content />
               <Team />
               <Contact />
+              <Testimonials/>
               {/* <GetApp /> */}
               <Pricing />
             </>
